@@ -2,11 +2,19 @@ apiVersion: v1
 entries:
   node-hello-world-minimal-main:
   - apiVersion: v2
-    created: "2022-07-02T17:45:40.850000878Z"
+    created: "2022-07-02T18:00:54.632272739Z"
+    digest: 657607dd37eee2ed5931131bfaecb0b49389cf0d0be065dbdca8f67218c18257
+    name: node-hello-world-minimal-main
+    type: application
+    urls:
+    - node-hello-world-minimal-main-0.0.1-pre.4.tgz
+    version: 0.0.1-pre.4
+  - apiVersion: v2
+    created: "2022-07-02T18:00:54.632039836Z"
     digest: ddfc10689bfb3e7470f33ec645ff195cbd1156afed4c5eed27220c366fa58ac4
     name: node-hello-world-minimal-main
     type: application
     urls:
     - node-hello-world-minimal-main-0.0.1-pre.3.tgz
     version: 0.0.1-pre.3
-generated: "2022-07-02T17:45:40.849492774Z"
+generated: "2022-07-02T18:00:54.631234925Z"
